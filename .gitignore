@@ -1,0 +1,11 @@
+# Project specific
+app/settings.json
+
+# OS X
+.DS_Store
+
+# Logs
+logs
+*.log
+
+app/node_modules

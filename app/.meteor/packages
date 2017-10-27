@@ -4,13 +4,16 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-insecure
+insecure@1.0.7
 d3
 iron:router
-accounts-ui
-accounts-password
+accounts-ui@1.1.9
+accounts-password@1.3.5
 ewall:foundation
-autopublish
-reactive-var
+autopublish@1.0.7
+reactive-var@1.0.11
 stevezhu:lodash
 matteodem:easy-search
+standard-minifier-css
+standard-minifier-js
+shell-server
